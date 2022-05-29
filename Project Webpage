@@ -1,22 +1,22 @@
-<!DOCTYPE html>
 <html>
 <head>
-<style>
-body {background-color: WhiteSmoke;}
-h1 	{color: black; font-family: verdana; font-size: 150%; border: 2px solid black; padding: 10px;}
-h3 	{color: black; font-family: verdana; font-size: 125%;}
-p  	{color: black; font-family: verdana; font-size: 100%}
-a	  {color: black; font-family: verdana; font-size: 100%}
-</style>
+   <title> My First Webpage </title>
+   <style>
+      body {background-color: WhiteSmoke;}
+      h1 	{color: black; font-family: verdana; font-size: 150%; border: 2px solid black; padding: 10px;}
+      h3 	{color: black; font-family: verdana; font-size: 125%;}
+      p  	{color: black; font-family: verdana; font-size: 100%}
+      a	  {color: black; font-family: verdana; font-size: 100%}
+    </style>
 </head>
 <body>
-<h1> My Project Webpage </h1>
+   <h1> My Project Webpage </h1>
 
-<h3> Andrew Jones </h3>
+   <h3> Andrew Jones </h3>
 
-<a href="www.linkedin.com/in/andrew-jones-6232591b3"> Andrew Jones LinkedIn </a>
+   <a href="www.linkedin.com/in/andrew-jones-6232591b3"> My LinkedIn </a>
 
-<p> Welcome to my project showcase! </p>
+   <p> Welcome to my project showcase! </p>
 
 </body>
 </html>
