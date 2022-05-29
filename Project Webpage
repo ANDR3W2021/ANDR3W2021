@@ -3,9 +3,10 @@
 <head>
 <style>
 body {background-color: WhiteSmoke;}
-h1   {color: black;}
-p    {color: black;}
-a	 {color: black;}
+h1 	{color: black; font-family: verdana; font-size: 150%; border: 2px solid black; padding: 10px;}
+h3 	{color: black; font-family: verdana; font-size: 125%;}
+p  	{color: black; font-family: verdana; font-size: 100%}
+a	  {color: black; font-family: verdana; font-size: 100%}
 </style>
 </head>
 <body>
